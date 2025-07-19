@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors Web Game
-<img width="705" height="675" alt="image" src="https://github.com/user-attachments/assets/973dedcf-73dd-4d3a-a1e5-af4a3e4999a6" />
+<img width="705" height="675" alt="image" src="https://github.com/user-attachments/assets/973dedcf-73dd-4d3a-a1e5-af4a3e4999a6" /> <br>
 This is a basic Rock-Paper-Scissors game made using HTML, CSS, and JavaScript.
 
 ## Features
